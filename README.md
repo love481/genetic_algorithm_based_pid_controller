@@ -16,7 +16,7 @@ Run this command on command prompt to clone the repository
 `git clone https://github.com/love481/genetic_algorithm_based_pid_controller.git`
 
 ## Running code
-To train or evaluate the models run on command line
+To simulate the response, run on command line
 
 `geneticMain.m`
 
