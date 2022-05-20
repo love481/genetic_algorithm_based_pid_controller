@@ -23,7 +23,7 @@ To simulate the response, run on command line
 ## Code Structure
 * `geneticMain.m` --> initialize the total population, gene size, ellite_size and iteratation involving evolution process
 * `GeneticAlgorithm.m` --> Class implementation of algorithm contains fitness function, binary to float conversion and pid controller
-* `getBestChromo.m` --> select chromosome having smallest fitness function
+* `getBestChromo.m` --> select chromosome having smallest fitness value
 * `selctTournament.m` --> Involves game tournament between two or more chromosomes to find the fittest individuals
 * `crossover.m` --> Crossing between two chromosomes.
 * `mutation.m` --> mutation process seen on the gene of the chromosomes to ensure diversity
